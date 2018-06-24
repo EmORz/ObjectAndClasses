@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ObjectsAndClasses\DayOfWeek\bin\Debug\netcoreapp2.0\DayOfWeek.deps.json
+C:\Users\user\source\repos\ObjectsAndClasses\DayOfWeek\bin\Debug\netcoreapp2.0\DayOfWeek.runtimeconfig.json
+C:\Users\user\source\repos\ObjectsAndClasses\DayOfWeek\bin\Debug\netcoreapp2.0\DayOfWeek.runtimeconfig.dev.json
+C:\Users\user\source\repos\ObjectsAndClasses\DayOfWeek\bin\Debug\netcoreapp2.0\DayOfWeek.dll
+C:\Users\user\source\repos\ObjectsAndClasses\DayOfWeek\bin\Debug\netcoreapp2.0\DayOfWeek.pdb
+C:\Users\user\source\repos\ObjectsAndClasses\DayOfWeek\obj\Debug\netcoreapp2.0\DayOfWeek.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\ObjectsAndClasses\DayOfWeek\obj\Debug\netcoreapp2.0\DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ObjectsAndClasses\DayOfWeek\obj\Debug\netcoreapp2.0\DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ObjectsAndClasses\DayOfWeek\obj\Debug\netcoreapp2.0\DayOfWeek.AssemblyInfo.cs
+C:\Users\user\source\repos\ObjectsAndClasses\DayOfWeek\obj\Debug\netcoreapp2.0\DayOfWeek.dll
+C:\Users\user\source\repos\ObjectsAndClasses\DayOfWeek\obj\Debug\netcoreapp2.0\DayOfWeek.pdb

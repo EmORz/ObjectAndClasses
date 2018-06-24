@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\ObjectsAndClasses\Sales\bin\Debug\netcoreapp2.0\Sales.deps.json
+C:\Users\user\source\repos\ObjectsAndClasses\Sales\bin\Debug\netcoreapp2.0\Sales.runtimeconfig.json
+C:\Users\user\source\repos\ObjectsAndClasses\Sales\bin\Debug\netcoreapp2.0\Sales.runtimeconfig.dev.json
+C:\Users\user\source\repos\ObjectsAndClasses\Sales\bin\Debug\netcoreapp2.0\Sales.dll
+C:\Users\user\source\repos\ObjectsAndClasses\Sales\bin\Debug\netcoreapp2.0\Sales.pdb
+C:\Users\user\source\repos\ObjectsAndClasses\Sales\obj\Debug\netcoreapp2.0\Sales.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ObjectsAndClasses\Sales\obj\Debug\netcoreapp2.0\Sales.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ObjectsAndClasses\Sales\obj\Debug\netcoreapp2.0\Sales.AssemblyInfo.cs
+C:\Users\user\source\repos\ObjectsAndClasses\Sales\obj\Debug\netcoreapp2.0\Sales.dll
+C:\Users\user\source\repos\ObjectsAndClasses\Sales\obj\Debug\netcoreapp2.0\Sales.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ObjectsAndClasses\AverageGrade\bin\Debug\netcoreapp2.0\AverageGrade.deps.json
+C:\Users\user\source\repos\ObjectsAndClasses\AverageGrade\bin\Debug\netcoreapp2.0\AverageGrade.runtimeconfig.json
+C:\Users\user\source\repos\ObjectsAndClasses\AverageGrade\bin\Debug\netcoreapp2.0\AverageGrade.runtimeconfig.dev.json
+C:\Users\user\source\repos\ObjectsAndClasses\AverageGrade\bin\Debug\netcoreapp2.0\AverageGrade.dll
+C:\Users\user\source\repos\ObjectsAndClasses\AverageGrade\bin\Debug\netcoreapp2.0\AverageGrade.pdb
+C:\Users\user\source\repos\ObjectsAndClasses\AverageGrade\obj\Debug\netcoreapp2.0\AverageGrade.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\ObjectsAndClasses\AverageGrade\obj\Debug\netcoreapp2.0\AverageGrade.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ObjectsAndClasses\AverageGrade\obj\Debug\netcoreapp2.0\AverageGrade.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ObjectsAndClasses\AverageGrade\obj\Debug\netcoreapp2.0\AverageGrade.AssemblyInfo.cs
+C:\Users\user\source\repos\ObjectsAndClasses\AverageGrade\obj\Debug\netcoreapp2.0\AverageGrade.dll
+C:\Users\user\source\repos\ObjectsAndClasses\AverageGrade\obj\Debug\netcoreapp2.0\AverageGrade.pdb

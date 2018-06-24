@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ObjectsAndClasses\TeamworkProjects\bin\Debug\netcoreapp2.0\TeamworkProjects.deps.json
+C:\Users\user\source\repos\ObjectsAndClasses\TeamworkProjects\bin\Debug\netcoreapp2.0\TeamworkProjects.runtimeconfig.json
+C:\Users\user\source\repos\ObjectsAndClasses\TeamworkProjects\bin\Debug\netcoreapp2.0\TeamworkProjects.runtimeconfig.dev.json
+C:\Users\user\source\repos\ObjectsAndClasses\TeamworkProjects\bin\Debug\netcoreapp2.0\TeamworkProjects.dll
+C:\Users\user\source\repos\ObjectsAndClasses\TeamworkProjects\bin\Debug\netcoreapp2.0\TeamworkProjects.pdb
+C:\Users\user\source\repos\ObjectsAndClasses\TeamworkProjects\obj\Debug\netcoreapp2.0\TeamworkProjects.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\ObjectsAndClasses\TeamworkProjects\obj\Debug\netcoreapp2.0\TeamworkProjects.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ObjectsAndClasses\TeamworkProjects\obj\Debug\netcoreapp2.0\TeamworkProjects.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ObjectsAndClasses\TeamworkProjects\obj\Debug\netcoreapp2.0\TeamworkProjects.AssemblyInfo.cs
+C:\Users\user\source\repos\ObjectsAndClasses\TeamworkProjects\obj\Debug\netcoreapp2.0\TeamworkProjects.dll
+C:\Users\user\source\repos\ObjectsAndClasses\TeamworkProjects\obj\Debug\netcoreapp2.0\TeamworkProjects.pdb

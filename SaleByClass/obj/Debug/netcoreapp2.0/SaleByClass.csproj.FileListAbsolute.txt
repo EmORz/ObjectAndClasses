@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ObjectsAndClasses\SaleByClass\bin\Debug\netcoreapp2.0\SaleByClass.deps.json
+C:\Users\user\source\repos\ObjectsAndClasses\SaleByClass\bin\Debug\netcoreapp2.0\SaleByClass.runtimeconfig.json
+C:\Users\user\source\repos\ObjectsAndClasses\SaleByClass\bin\Debug\netcoreapp2.0\SaleByClass.runtimeconfig.dev.json
+C:\Users\user\source\repos\ObjectsAndClasses\SaleByClass\bin\Debug\netcoreapp2.0\SaleByClass.dll
+C:\Users\user\source\repos\ObjectsAndClasses\SaleByClass\bin\Debug\netcoreapp2.0\SaleByClass.pdb
+C:\Users\user\source\repos\ObjectsAndClasses\SaleByClass\obj\Debug\netcoreapp2.0\SaleByClass.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\ObjectsAndClasses\SaleByClass\obj\Debug\netcoreapp2.0\SaleByClass.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ObjectsAndClasses\SaleByClass\obj\Debug\netcoreapp2.0\SaleByClass.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ObjectsAndClasses\SaleByClass\obj\Debug\netcoreapp2.0\SaleByClass.AssemblyInfo.cs
+C:\Users\user\source\repos\ObjectsAndClasses\SaleByClass\obj\Debug\netcoreapp2.0\SaleByClass.dll
+C:\Users\user\source\repos\ObjectsAndClasses\SaleByClass\obj\Debug\netcoreapp2.0\SaleByClass.pdb

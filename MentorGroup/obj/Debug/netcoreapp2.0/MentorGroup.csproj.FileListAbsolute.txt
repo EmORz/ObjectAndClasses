@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\ObjectsAndClasses\MentorGroup\bin\Debug\netcoreapp2.0\MentorGroup.deps.json
+C:\Users\user\source\repos\ObjectsAndClasses\MentorGroup\bin\Debug\netcoreapp2.0\MentorGroup.runtimeconfig.json
+C:\Users\user\source\repos\ObjectsAndClasses\MentorGroup\bin\Debug\netcoreapp2.0\MentorGroup.runtimeconfig.dev.json
+C:\Users\user\source\repos\ObjectsAndClasses\MentorGroup\bin\Debug\netcoreapp2.0\MentorGroup.dll
+C:\Users\user\source\repos\ObjectsAndClasses\MentorGroup\bin\Debug\netcoreapp2.0\MentorGroup.pdb
+C:\Users\user\source\repos\ObjectsAndClasses\MentorGroup\obj\Debug\netcoreapp2.0\MentorGroup.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ObjectsAndClasses\MentorGroup\obj\Debug\netcoreapp2.0\MentorGroup.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ObjectsAndClasses\MentorGroup\obj\Debug\netcoreapp2.0\MentorGroup.AssemblyInfo.cs
+C:\Users\user\source\repos\ObjectsAndClasses\MentorGroup\obj\Debug\netcoreapp2.0\MentorGroup.dll
+C:\Users\user\source\repos\ObjectsAndClasses\MentorGroup\obj\Debug\netcoreapp2.0\MentorGroup.pdb

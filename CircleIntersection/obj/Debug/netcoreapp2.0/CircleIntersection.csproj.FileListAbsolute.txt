@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ObjectsAndClasses\CircleIntersection\bin\Debug\netcoreapp2.0\CircleIntersection.deps.json
+C:\Users\user\source\repos\ObjectsAndClasses\CircleIntersection\bin\Debug\netcoreapp2.0\CircleIntersection.runtimeconfig.json
+C:\Users\user\source\repos\ObjectsAndClasses\CircleIntersection\bin\Debug\netcoreapp2.0\CircleIntersection.runtimeconfig.dev.json
+C:\Users\user\source\repos\ObjectsAndClasses\CircleIntersection\bin\Debug\netcoreapp2.0\CircleIntersection.dll
+C:\Users\user\source\repos\ObjectsAndClasses\CircleIntersection\bin\Debug\netcoreapp2.0\CircleIntersection.pdb
+C:\Users\user\source\repos\ObjectsAndClasses\CircleIntersection\obj\Debug\netcoreapp2.0\CircleIntersection.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\ObjectsAndClasses\CircleIntersection\obj\Debug\netcoreapp2.0\CircleIntersection.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ObjectsAndClasses\CircleIntersection\obj\Debug\netcoreapp2.0\CircleIntersection.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ObjectsAndClasses\CircleIntersection\obj\Debug\netcoreapp2.0\CircleIntersection.AssemblyInfo.cs
+C:\Users\user\source\repos\ObjectsAndClasses\CircleIntersection\obj\Debug\netcoreapp2.0\CircleIntersection.dll
+C:\Users\user\source\repos\ObjectsAndClasses\CircleIntersection\obj\Debug\netcoreapp2.0\CircleIntersection.pdb
